@@ -1,0 +1,8 @@
+Vlan 
+Es una red de área local virtual que es una colección de computadoras en una o varias LAN que se agrupan en un solo dominio de difusión, independientemente de su ubicación física. 
+Esto permite agrupar dispositivos de acuerdo con patrones de tráfico en lugar de proximidad física.
+Sirven para que nos permitan dividir la red en grupos con una agrupación o estructura jerárquica lógica en lugar de una física así esto ayuda a liberar al personal de TI de las restricciones del diseño de red y la infraestructura de cableado existente. 
+De ahí que las VLAN faciliten el diseño, la implementación y la administración de la red
+
+
+[![image.png](https://i.postimg.cc/dVkKF55p/image.png)](https://postimg.cc/cvSzMByB)
